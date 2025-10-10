@@ -64,6 +64,8 @@ Users can chat, start video calls, react with emojis, and even record meetings â
 - Centralized backend error middleware  
 - Toast notifications on frontend for user feedback  
 
+### 
+
 ---
 
 ## ðŸ“‚ Folder Structure
