@@ -64,7 +64,9 @@ Users can chat, start video calls, react with emojis, and even record meetings ‚
 - Centralized backend error middleware  
 - Toast notifications on frontend for user feedback  
 
-### 
+### üåê Sharing 
+- Sharing files like images, pdf, word file
+- User can download these sharing file
 
 ---
 
@@ -175,7 +177,7 @@ This app uses **Stream SDK** for:
 | Chat Interface                                         | Video Call                                   |
 | ------------------------------------------------------ | -------------------------------------------- |
 | ![Login UI](/frontend/public/login.png) | ![Video UI](/frontend/public/Video-call.png) |
-| ![Chat UI](/frontend/public/Chat.png) | ![Video UI](/frontend/public/video-call.png) |
+| ![Chat UI](/frontend/public/Chat.png) | ![Video UI](/frontend/public/Video-call.png) |
 
 ---
 
